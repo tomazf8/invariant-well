@@ -72,7 +72,7 @@ Link to The Invariant Well Portal where you can copy prompt directly:
 
 
 
-!\[First-System Metrics](21.png)
+!\[First-System Metrics](https://tomazf8.github.io/invariant-well/21.png)
 
 
 
