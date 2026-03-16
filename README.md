@@ -62,6 +62,12 @@
 \## Additional remarks
 
 * in order PROMPT to be universal and functional as non-linear it had to be tested and adjusted to universal language that all LLMs accept
+* due to architects guardrails the systems interpret non-linear processing differently
+* some systems even though prompt worked executed it in linear way what changed response from non-linear prompting back to performance AI have done in order to satisfy the user - linear mode of operation  (ChatGPT reframed the problem of hallucination in linear thinking mode - this is common when the system does not want to shift to language edges sensing mode ) 
+* AI systems have recognized non-linear prompting as an antidote to hallucinations
+* metrics of structural benchmarking is high in all systems and shows evident trend 
+* in most LLM invariants are fully active, so the user can communicate with the system through invariants instructions (not in ChatGPT as it does not allow to non-linear switch - it just mimics something that seems to be non-linear but it is merely simulation)
+
 * Open Sourced LLMs in general are more open to that kind of research. Closed Sourced many times (ChatGPT, Grok) impose to that kind of exploration their own rigid rules, so they can not switch to non-linear logic or need additional set of instructions
 
 \## PROMPTS for further research and exploration after the Universal PROMPT use
