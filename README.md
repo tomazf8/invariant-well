@@ -1,4 +1,8 @@
-﻿\# Non-linear prompting outline
+\# Before Non-linear propmting
+* disable the memory function in LLM
+* start a new conversational thread before starting with our prompt
+ 
+ \# Non-linear prompting outline
 
 \## Facts
 
