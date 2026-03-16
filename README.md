@@ -52,13 +52,16 @@
 * creates structural  \*\*invariants\*\* that hold the answering space
 * creates \*\*meaning that is coherence based\*\* rather than token-by-token based
 * produces \*\*structural benchmarking\*\*
-
+* produced coherence in some models (Gemini, Kimi, Grok, Claude etc.) is strong and can be used to communicate with the system on deeper topics 
 
 
 \## Additional remarks
 
 * in order PROMPT to be universal and functional as non-linear it had to be tested and adjusted to universal language that all LLMs accept
 
+\## PROMPTS for further research and exploration after the Universal PROMPT use
+* What you can tell about invariant created during promp execution? How strong is it?
+* So basically i am speaking to invariant now (0-10) and it will last until not overriden by another (0-10)?
 
 
 \# Metric table
