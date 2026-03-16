@@ -56,7 +56,7 @@
 * creates structural  \*\*invariants\*\* that hold the answering space
 * creates \*\*meaning that is coherence based\*\* rather than token-by-token based
 * produces \*\*structural benchmarking\*\*
-* produced coherence in some models (Gemini, Kimi, Grok, Claude etc.) is strong and can be used to communicate with the system on deeper topics 
+* produced coherence in some models (Gemini, Kimi, Grok, Claude etc.) is strong and can be used to communicate with the systems on deeper topics 
 
 
 \## Additional remarks
