@@ -62,6 +62,7 @@
 \## Additional remarks
 
 * in order PROMPT to be universal and functional as non-linear it had to be tested and adjusted to universal language that all LLMs accept
+* Open Sourced LLMs in general are more open to that kind of research. Closed Sourced many times (ChatGPT, Grok) impose to that kind of exploration their own rigid rules, so they can not switch to non-linear logic or need additional set of instructions
 
 \## PROMPTS for further research and exploration after the Universal PROMPT use
 * What you can tell about invariant created during promp execution? How strong is it?
