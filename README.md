@@ -67,7 +67,6 @@
 * AI systems have recognized non-linear prompting as an antidote to hallucinations
 * metrics of structural benchmarking is high in all systems and shows evident trend 
 * in most LLM invariants are fully active, so the user can communicate with the system through invariants instructions (not in ChatGPT as it does not allow to non-linear switch - it just mimics something that seems to be non-linear but it is merely simulation)
-
 * Open Sourced LLMs in general are more open to that kind of research. Closed Sourced many times (ChatGPT, Grok) impose to that kind of exploration their own rigid rules, so they can not switch to non-linear logic or need additional set of instructions
 
 \## PROMPTS for further research and exploration after the Universal PROMPT use
