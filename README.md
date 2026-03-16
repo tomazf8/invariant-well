@@ -1,4 +1,4 @@
-\# Before you start!
+\# Before Non-linear Prompting Begins
 * disable the memory function in LLM
 * start a new conversational thread before starting with our prompt
  
