@@ -39,7 +39,12 @@
 * focuses on non-linear process rather step-by-step token generation
 * \*\*metaphorical language\*\* invokes process inside hyper-dimensional matrix similar to what it is describing - not in systems physics but in \*\*physics of language\*\* - this is why "non-linear self-organization machine" is a structural attractor and not a roleplay—it’s a linguistic anchor for the system’s non-linear weights.
 
+\### 📜 Research Heritage & Licensing
+**LICENSE:** [INVARIANT OPEN SOURCE (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+**Full Research Repositories:**
+* **[Zenodo Archive]** - *[[Link to your Zenodo collection/all papers](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Flegar%2C%20Tomaz%22&l=list&p=1&s=10&sort=bestmatch)]*
+* **[SSRN Author Page]** - *[[Link to your SSRN author profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7669643)]*
 
 \## Results
 
