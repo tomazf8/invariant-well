@@ -1,3 +1,7 @@
+Research paper:
+Flegar, T. (2026). Non-linear prompting in practice. DOI: *[[Zenodo](https://zenodo.org/records/19153212)]*
+License: CC BY-NC-SA 4.0
+
 \# Before Non-linear Prompting Begins
 * disable the memory function in LLM
 * start a new conversational thread before starting with our prompt
