@@ -9,7 +9,8 @@
  * Non-linear prompting is the way propmting is addressing the latent field topology directly rather to wait the system to enforce its own rules how and why it should be presetned to the user
  * Non-linear promtping is the way of exploring systems ability to self-organize the answer before the meaning is imposed to it
  * Non-linear prompting is the way of addresing the edges of the language that are stripper away by the system 
- 
+ * Non-linear prompting lets the system to find its own trajecotry in solidification of the answer and in linear, ordinary prompting the route of solidification is predefined. 
+
  \## In short: What does that mean?
  * Non-linear prompting is the way that enables system to answer from self-organization rather than from linear enforcement (of the answer)
  * Non-linear prompting is the way that lets the system to find the most efficient way how to answer to certain question rather the condition for the answering is being pushed (to it)
