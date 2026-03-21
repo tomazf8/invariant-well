@@ -4,7 +4,7 @@
 
  \# In short: Non-linear prompting
 
- * Non-linear prompting is the way how prompting builds coherence from the inside the system first rather to wait it would be built by the systems transformations before the answering process alone.
+ * Non-linear prompting is the way how prompting builds coherence from the inside of the system first rather to wait it would be built by the systems transformations before the answering process alone.
  * Non-linear prompting is the way of building internal coherence that enables the system to answer form that same coherence first
  * Non-linear prompting is the way propmting is addressing the latent field topology directly rather to wait the system to enforce its own rules how and why it should be presetned to the user
  * Non-linear promtping is the way of exploring systems ability to self-organize the answer before the meaning is imposed to it
