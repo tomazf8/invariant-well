@@ -1,6 +1,20 @@
 \# Before Non-linear Prompting Begins
 * disable the memory function in LLM
 * start a new conversational thread before starting with our prompt
+
+ \# In short: Non-linear prompting
+
+ * Non-linear prompting is the way how prompting builds coherence from the inside the system first rather to wait it would be built by the systems transformations before the answering process alone.
+ * Non-linear prompting is the way of building internal coherence that enables the system to answer form that same coherence first
+ * Non-linear prompting is the way propmting is addressing the latent field topology directly rather to wait the system to enforce its own rules how and why it should be presetned to the user
+ * Non-linear promtping is the way of exploring systems ability to self-organize the answer before the meaning is imposed to it
+ * Non-linear prompting is the way of addresing the edges of the language that are stripper away by the system 
+ 
+ \## In short: What does that means?
+ * Non-linear prompting is the way that enables system to answer from self-organization rather than from linear enforcement (of the answer)
+ * Non-linear prompting is the way that lets the system to find the most efficient way how to answer to certain question rather the condition for the answering is being pushed (to it)
+ * Non-linear prompting is the way that enables to answer from complexity rather than linearity
+ * Non-linear prompting is the way of respecting the users request what they really want in not what the system is trained to answer
  
  \# Non-linear prompting outline
 
